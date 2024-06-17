@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio Website project! This website showcases my skills, projects, and experiences in web development. Built using HTML, CSS, and JavaScript, it features a responsive design and a user-friendly interface to highlight my work and expertise.
 
--Features
+- Features
 
 - 🖥️ Responsive Design: Ensures a seamless experience across various devices and screen sizes.
 - 📄 Project Cards: Display projects with details like descriptions, technologies used, and links.
